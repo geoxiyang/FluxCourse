@@ -8,6 +8,8 @@ The following Jupyter Notebook code will be used in the class:
 * UseSIFlvl2.ipynb: processing satellite SIF data
 * MODIS_demo.ipynb: Working with ORNL DAAC MODIS fixed site data
 
+Two keynote presentations are used in the class. I also provide the PDF version of each. 
+
 A large chunk of the code that processes satellite SIF data (L2_tools.py and UseSIFlvl2.ipynb) are from Christian Frankenberg (https://github.com/cfranken/SIF_tools).
 
 
